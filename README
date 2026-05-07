@@ -1,0 +1,12 @@
+# 电商销售数据分析与可视化平台
+## 项目简介
+本项目为计算机专业毕业设计，基于SpringBoot + Vue3 + Python开发，实现电商销售数据的清洗、分析、可视化大屏与销量预测功能。
+
+## 技术栈
+- 后端：SpringBoot + MySQL
+- 前端：Vue3 + ECharts
+- 数据分析：Python + Pandas + Scikit-learn
+- AI开发工具：Cursor + MiMo / GPT系列
+
+## 开发目标
+借助AI代码工具提升开发效率，完成从数据处理到可视化大屏的全流程开发，并输出可运行的完整项目与论文。
